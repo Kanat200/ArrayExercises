@@ -16,9 +16,11 @@ public class Mix {
             y = y - 2;
         }
         System.out.println(x + " " + y);
+
+        System.out.println("For testing commit");
     }
 }
 // x = x + 6; 60 10
 // x = x + 2;
 // x = x + 0; 6 14
-//
+//For Test Committing
